@@ -17,6 +17,7 @@ Les données pourront être récupérées auprès d’anémomètres connectés: 
 Ceux-ci disposent d’une API qui peut être interrogée: http://developers.pioupiou.fr/api/live/
 
 Ressource(s):
+
 https://www.openwindmap.org/PP113
 
 http://developers.pioupiou.fr/api/live/

@@ -1,7 +1,8 @@
 # Brief-backup-bdd
 Récupération de données en temps réel
 
-Contexte du projet
+## Contexte du projet
+
 Après avoir vu les images de l’America’s cup dans la baie d’Auckland, Cléante de Nantes a décidé de se mettre au catamaran avec foil.
 
 Avant d’investir dans son engin high tech, elle a décidé de faire une petite application pour sa montre connectée qui donne en temps réel les dernières mesures sur 3 stations locales disposant d’un anémomètre. Elle souhaite savoir où se diriger pour trouver le vent nécessaire à ses futures activités.
